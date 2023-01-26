@@ -2,9 +2,6 @@
 2. Mundo
 3. hello
 4. world
-
-linea1
-linea2
-linea3
-_______________
+hola
+hola
 
